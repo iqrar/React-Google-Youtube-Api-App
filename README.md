@@ -12,4 +12,4 @@ It will show the new uploaded Youtube video selected from the Google maps.
 
 User can check history of the visited places.
 
-![alt text](screenshots/Capture1.png)  ![alt text](screenshots/Capture2.png) ![alt text](screenshots/Capture3.png)
+![alt text](screenshots/Capture1.PNG)  ![alt text](screenshots/Capture2.PNG) ![alt text](screenshots/Capture3.PNG)
